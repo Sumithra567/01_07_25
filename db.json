@@ -1,0 +1,59 @@
+{
+  "voters": [
+    {
+      "id": "1",
+      "name": "Nara",
+      "age": 52
+    },
+    {
+      "id": "2",
+      "name": "Sarawathi",
+      "age": 34
+    },
+    {
+      "id": "3",
+      "name": "Padma",
+      "age": 41
+    },
+    {
+      "id": "4",
+      "name": "Ashok",
+      "age": 29
+    },
+    {
+      "id": "5",
+      "name": "Sumithra",
+      "age": 46
+    },
+    {
+      "id": "6",
+      "name": "kamala",
+      "age": 38
+    },
+    {
+      "id": "7",
+      "name": "Chandra",
+      "age": 27
+    },
+    {
+      "id": "8",
+      "name": "Durpa",
+      "age": 50
+    },
+    {
+      "id": "9",
+      "name": "Srishty",
+      "age": 33
+    },
+    {
+      "id": "10",
+      "name": "Bista",
+      "age": 24
+    },
+    {
+      "id": "11",
+      "name": "bista",
+      "age": 20
+    }
+]
+}
